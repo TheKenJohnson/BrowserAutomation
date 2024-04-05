@@ -1,0 +1,1 @@
+First test needs expected url to be changed from google to duckduckgo. third test needs to either check the browser is open (instead of closed) or uncomment out the line in duckduckgo.js which close the browser
