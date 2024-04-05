@@ -1,0 +1,1 @@
+First test should change url from google to duckduck.go, third test needs to check if the file is open (not closed) or uncomment the close command in duckduckgo.js
